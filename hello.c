@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("hello!!!");
+    printf("this is forth version");
     return 0;    
 }
