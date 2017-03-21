@@ -4,10 +4,5 @@
 int main()
 {
     printf("hello!!!");
- 
- gg
- gg
- gg
-    
     return 0;    
 }
